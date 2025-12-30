@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 347f04c73e4f89a4b9b71053ef19c268, type: 3}
+  m_Name: IceBlockerPlacer 1
+  m_EditorClassIdentifier: 
+  PreviewEditorSprite: {fileID: 21300000, guid: 7e326aa9c6bd2fd43b8399239f444187, type: 3}
+  ObstaclePrefab: {fileID: -3031379134753691653, guid: 7193c1f6e9ecab642abb3288604b2ede, type: 3}
